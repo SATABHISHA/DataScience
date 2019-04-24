@@ -1,0 +1,6 @@
+import keyword
+
+import keyword
+
+print(keyword.kwlist)
+print("\n Total keywords:",len(keyword.kwlist))
