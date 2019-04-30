@@ -1,0 +1,14 @@
+This is the first assignment on data visualization.
+1. The data and reference notebook is attached here, try to document every plot and analysis that you do.
+2. Experiment with different functionalities of jupyter notebook and get habituated with its features.
+3. Try out as many plotting techniques as you can, but write down your observations for each of them.
+4. Please be sure to have proper axes names, title and legend to all the charts that you plot.
+5. Have a proper conclusions section where in you summarize your overall observation.
+6. If you want to explore more about Haberman's Survival Data Set, you can try out this link https://www.kaggle.com/gilsousa/habermans-survival-data-set/version/1
+
+Note-1: Check this to see how to submit an assignment https://www.youtube.com/watch?v=PdDJSWQAM8A
+Note-2: If you have used code from somewhere, provide those references or citations. Else it will be considered as plagiarism.
+Note-3: Upload both python notebook and pdf version of that notebook
+Note-4: For converting Jupyter notebook to PDF please have a look at this link: https://stackoverflow.com/questions/15998491/how-to-convert-ipython-notebooks-to-pdf-and-html
+(or) you can download the notebook as HTML file and then convert the HTML file to pdf, you can find many online tools for this conversion. But you can give this website a try https://pdfcrowd.com
+?
